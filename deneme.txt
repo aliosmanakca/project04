@@ -2,3 +2,5 @@ merhaba
 ali osman
 test
 cakisma olacak
+deneme remote
+
